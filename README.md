@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mirzohid Avazbekov — a Frontend Developer focused on building modern, responsive and user-friendly web applications.<br><br>I specialize in:<br><br>⚛️ React & Next.js<br><br>🎨 Clean and responsive UI development<br><br>🌐 Multi-language website implementation (UZ / RU / EN)<br><br>🔀 Git workflow & branch management<br><br>🧩 Component-based architecture<br><br>I have experience working on industrial and manufacturing websites, implementing structured layouts, interactive sections, and modern UI components. I enjoy turning complex ideas into simple, clean and efficient interfaces.
+Hi, I'm Mirzohid Avazbekov — a Frontend Developer focused on building modern, responsive and user-friendly web applications.<br>I specialize in:<br>⚛️ React & Next.js<br>🎨 Clean and responsive UI development<br>🌐 Multi-language website implementation (UZ / RU / EN)<br>🔀 Git workflow & branch management<br>🧩 Component-based architecture<br><br>I have experience working on industrial and manufacturing websites, implementing structured layouts, interactive sections, and modern UI components. I enjoy turning complex ideas into simple, clean and efficient interfaces.
 
 
 ## 🌐 Socials:
